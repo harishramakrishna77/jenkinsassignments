@@ -1,1 +1,2 @@
 this is the master.txt file
+this is the edit on master.txt to test slave2 updates on main branch 
